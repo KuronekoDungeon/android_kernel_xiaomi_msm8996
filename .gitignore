@@ -35,6 +35,8 @@
 modules.builtin
 Module.symvers
 *.dwo
+*.diff
+*.patch
 
 #
 # Top-level generic files
